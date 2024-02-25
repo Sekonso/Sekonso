@@ -6,10 +6,5 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,vue,mongodb" />
 </a>
 
-<h4>Future interest: </h4>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,nuxt,postgresql" />
-</a>
-
 <h4>Connect: </h4>
 <p>ancaadri9@gmail.com</p>
