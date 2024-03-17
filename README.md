@@ -3,7 +3,7 @@
 
 <h4>Tech stack: </h4>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,vue,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,sass,nodejs,express,vue,mongodb" />
 </a>
 
 <h4>Connect: </h4>
