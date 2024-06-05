@@ -1,10 +1,19 @@
-<h1>Hi 👋, I'm Adriansyah</h1>
-<h4>I'm a college student of Pamulang University in Indonesia, currently learning to be a junior web developer.</h4>
+# Hi, I'm Adriansyah👋
+I'm a college student of Pamulang University in Indonesia, currently learning to be a junior web developer.
 
-<h4>Tech stack: </h4>
+## 🎨 Front-end  
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,sass,nodejs,express,vue,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,tailwind,bootstrap,vue,react,vite" />
 </a>
 
-<h4>Connect: </h4>
-<p>ancaadri9@gmail.com</p>
+## 📇 Back-end  
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+</a>
+
+## 🔗 Connect
+
+[![email](https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:ancaadri9@gmail.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/adriansyah-anca-197270214/)/)
